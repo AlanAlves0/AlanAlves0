@@ -1,6 +1,5 @@
 ### Olá! Meu nome é Alan.
 
-- 🔭 Estudando apenas
 - 🌱 Estudando sobre javaScript 
 - 😄 Pronouns: ele/dele
 
