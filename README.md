@@ -1,6 +1,6 @@
 ### Olá! Meu nome é Alan.
 
-- 🌱 Estudando sobre javaScript 
+- 🌱 Estudando sobre javaScript, css e html
 - 😄 Pronouns: ele/dele
 
 <div>
