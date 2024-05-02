@@ -1,7 +1,5 @@
 ### Olá! Meu nome é Alan.
-
-- 🌱 Estudando sobre javaScript, css e html
-- 😄 Pronouns: ele/dele
+### Bem indo ao meu perfil GitHub
 
 <div>
   <a href="https://github.com/AlanAlves0">
