@@ -1,5 +1,5 @@
 ### Olá! Meu nome é Alan.
-### Bem indo ao meu perfil GitHub
+### Bem vindo ao meu perfil GitHub
 
 <div>
   <a href="https://github.com/AlanAlves0">
